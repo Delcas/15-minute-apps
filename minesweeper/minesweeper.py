@@ -21,6 +21,10 @@ NUM_COLORS = {
     8: QColor('#FF9800')
 }
 
+'''
+the first element is the size of the squart,
+the second element is the number of the mines.
+'''
 LEVELS = [
     (8, 10),
     (16, 40),
